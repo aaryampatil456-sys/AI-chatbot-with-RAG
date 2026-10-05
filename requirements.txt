@@ -1,0 +1,6 @@
+flask
+pypdf
+faiss-cpu
+numpy
+sentence-transformers
+anthropic
